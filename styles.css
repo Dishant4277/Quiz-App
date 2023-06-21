@@ -1,11 +1,11 @@
 body {
-  background: #303030;
+  background: url(https://e0.pxfuel.com/wallpapers/149/144/desktop-wallpaper-dark-blue-dark-tech-dark-blue-abstract-technology.jpg);
 }
 .quiz {
   background: #fff;
   border-radius: 10px;
   width: 80%;
-  max-width: 800px;
+  max-width: 600px;
   margin: 100px auto 0;
   padding: 30px;
 }
